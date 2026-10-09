@@ -1,3 +1,4 @@
+#practical work 3
 import math
 import numpy as np
 import curses
